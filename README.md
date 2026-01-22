@@ -39,9 +39,18 @@ No momento, estou estruturando meus primeiros repositórios. Meu foco inicial é
 ### 📊 Estatísticas no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabschyks&show_icons=true&theme=tokyonight&hide_border=true&title_color=7022c4&icon_color=9d4edd" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabschyks&layout=compact&theme=tokyonight&hide_border=true&title_color=7022c4" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sabschyks&show_icons=true&theme=tokyonight&hide_border=true&title_color=7022c4&icon_color=9d4edd"
+    height="180em"
+    style="display:inline-block;"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabschyks&layout=compact&theme=tokyonight&hide_border=true&title_color=7022c4"
+    height="180em"
+    style="display:inline-block;"
+  />
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabschyks&theme=tokyonight&color=7022c4&hide_border=true&area=true" width="100%" />
