@@ -1,6 +1,7 @@
-# Sabrinna Guimarães - **Software Engineer | Fullstack Developer**
 
+  
 ### 👩‍💻 Sobre Mim
+  
 
 Olá! Sou a Sabrinna, uma desenvolvedora apaixonada por transformar lógica em soluções reais e eficientes. Meu foco está em construir sistemas que não sejam apenas funcionais, mas também **escaláveis, limpos e de fácil manutenção**.
 
