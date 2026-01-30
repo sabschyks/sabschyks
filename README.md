@@ -40,14 +40,12 @@ Atualmente estou estruturando meus primeiros repositórios públicos, com foco e
   <tr>
     <td align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=sabschyks&show_icons=true&theme=tokyonight&hide_border=true&title_color=7022c4&icon_color=9d4edd"
-        height="170"
+        src="./profile/stats.svg"
       />
     </td>
     <td align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabschyks&layout=compact&theme=tokyonight&hide_border=true&title_color=7022c4"
-        height="170"
+        src="./profile/top-langs.svg"
       />
     </td>
   </tr>
