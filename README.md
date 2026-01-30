@@ -16,7 +16,7 @@ Tenho interesse genuíno em entender o *porquê* das decisões técnicas, não a
 
 | Linguagens & Frameworks | Ferramentas & Ambientes |
 |------------------------|------------------------|
-| <img src="https://skillicons.dev/icons?i=ts,js,cs,cpp,dotnet,nodejs,react,nextjs,tailwind&perline=4" /> | <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,docker,postman,linux,mysql&perline=4" /> |
+| <img src="https://skillicons.dev/icons?i=ts,js,cs,cpp,dotnet,nodejs,react,nextjs,tailwind,kotlin,go,java&perline=4" /> | <img src="https://skillicons.dev/icons?i=vscode,aws,git,github,docker,postman,linux,mysql,pnpm,raspberrypi,redis,kali&perline=4" /> |
 
 ---
 
