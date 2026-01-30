@@ -62,19 +62,22 @@ Atualmente estou estruturando meus primeiros repositórios públicos, com foco e
 
 ### 📫 Vamos Conversar?
 
-Se você busca trocar conhecimento técnico, colaborar em projetos ou discutir arquitetura e boas práticas, fique à vontade para entrar em contato.
+Se você deseja trocar conhecimento técnico, colaborar em projetos ou discutir arquitetura e boas práticas, sinta-se à vontade para entrar em contato.
 
-<div align="center">
+<p align="center">
   <a href="mailto:sabrinnag582@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://instagram.com/sabscyk">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</div>
+</p>
 
 ---
 
 <div align="center">
-  <i>"A simplicidade é o último grau da sofisticação."</i>
+
+  <i>“A simplicidade é o último grau da sofisticação.” – Da Vinci</i>
+
 </div>
+
